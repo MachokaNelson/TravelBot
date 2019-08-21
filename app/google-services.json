@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933947131957",
+    "firebase_url": "https://bolttravel-572d6.firebaseio.com",
+    "project_id": "bolttravel-572d6",
+    "storage_bucket": "bolttravel-572d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933947131957:android:39a0f65888085960",
+        "android_client_info": {
+          "package_name": "com.example.bolttravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933947131957-cfgdsmnhf13tgtrr4uv08lo1d7t1epjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bolttravel",
+            "certificate_hash": "7dc2af567cf9c674a0806c779a83ac4ecf90066c"
+          }
+        },
+        {
+          "client_id": "933947131957-9kfnqlcsnhjgvj4rmp27g8oiru5rbsau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSPVSUSbbLnTYYoaLLOPcCNh-vmVEji0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933947131957-9kfnqlcsnhjgvj4rmp27g8oiru5rbsau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
